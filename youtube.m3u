@@ -1,0 +1,70 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+
+###########################################################################
+#      ____ 	____    _____                                             #
+#     |  _ \   |       |  _   \                                           #
+#     | |_) |  |____   | |_|  |                                           #
+#     |  __/        |  |  _   /                                           #
+#     |_|       ____|  |_| |__\                                           #
+#                                                                         #
+#                                  >> https://github.com/naveenland4      #
+###########################################################################
+
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News (பாலிமர் செய்திகள்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676669/ei/Xe3oYeanDc_p8wS8gZjwBQ/ip/20.124.209.68/id/PTnricP4G_Q.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOUmfnM8H-MN3oVP56WhioQHDskSoYFSORWxwimcp07KAiA5UPUDfGxPg1dfrQ4Q4PXYp3ZY3Z_iK6_FlYOxGao6EA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", Puthiya Thalaimurai (புதிய தலைமுறை)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676669/ei/Xe3oYan7HpjChgasoa2YAg/ip/20.124.209.68/id/e7WrmFDGbqk.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJP7CGTnfW0o0yxqqgBlswaqWaK8uYrmNpL6mWXFTBRaAiEAu5jEdMj-l5UR9S9ZHxW1I4QPKjBngBThpMVQb8troJE%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/gpYwU6U.png" tvg-id="", News7 Tamil (நியூஸ்7 தமிழ் தொலைக்காட்சி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676669/ei/Xe3oYYSeMcnohwbf35KoCw/ip/20.124.209.68/id/Svg1mIo2jhM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKr_HUvNRWClLCkUO-NlSLwcJqqYHV-5Y_cOU-MaqQnNAiEAlZEKABPqsbJTdRmAeXZpKUzJFgyV7ngxBDoL5WtcK9g%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV (தந்தி டிவி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676670/ei/Xu3oYf_DBOXshwb1ypiwDA/ip/20.124.209.68/id/wc3Y6vI-poI.17/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI5JDqZPRWerRksSVWhMs8HRszJ2KwjGp_ZDOsXjqc1oAiEArZ8U8NlFiu4H--wf-ZeWTGWRNP9pX8RuTUJwYVPdfMU%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/9KOtLWa.jpg" tvg-id="", Dinamalar (தினமலர் செய்திகள்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676670/ei/Xu3oYZrHF7PqhwbVw7PICg/ip/20.124.209.68/id/tdmD-BpWRJw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDEmr5dZLp0QbnXctLcdtQ06fajMGw1YPds9pbEVkiwwCIBw_uu0-iRz4SG4ttPk1Q-YodQ7nOGaOuOq5_T_CCHd-/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="", Sun News (சன் நியூஸ்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676670/ei/Xu3oYa_3KLidhwafo7awDQ/ip/20.124.209.68/id/kzwbYu1diCY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMkxwSFBUnQLD66007AnPDxRm_D5uvv3XnlQtyFU_anqAiEAi1dbB6ug6ANbTRhLwZbF6cV2_yYf36El6sigqomV_T8%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/MJrerNj.png" tvg-id="", News18 TamilNadu (நியூஸ்18 தமிழ்நாடு தொலைக்காட்சி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676671/ei/X-3oYafVBo_xhgaowbCYDw/ip/20.124.209.68/id/EZy0RAxG8OI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANmLIDI9GgjONm71CkdR4_q1bCyg5Qkxb7qz5ZV0OJECAiEAk-T27I0zRbNDPwxtt3ryhqpeQ_gUUNAij3CZK5dqDtc%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="", Raj News (ராஜ் நியூஸ் தமிழ்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676671/ei/X-3oYabrIZDJhganurHYBg/ip/20.124.209.68/id/7ZwPGtkNLqk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgW5E13CxXtWqhQUxTreH5HZCsx8uWBmy7SiN50kHssWoCIQD4S4Jyl-8a_ATDBS0wFX-UilrJJyD9Z_lGpfKmUbppMg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="", NewsJ (நியூஸ் ஜெ)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676671/ei/X-3oYcmMNLPqhwbVw7PICg/ip/20.124.209.68/id/vPHGsLUPlLw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfg1zWKZ3V-X4LwfVn5zvbj3lSlKmeYmg_14Xv0LgEA0CIQC7FGEDHFGk6t6Z3QG7_fGpklFhsB9b9-eN8J-PiZZUJQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/IKp22Lb.png" tvg-id="", Sathiyam TV (சத்தியம் டிவி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676672/ei/YO3oYaXJC4mThgbQmZGoDQ/ip/20.124.209.68/id/9WDw6xwUEnA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO6dAHHORuolJ26j-rn9wxBdbjoxJVaR08leGV1J8iIoAiEA_ixAc-xEDu8M_EzZRN0nv_ECdpHcWmR8i_xXfMg41B8%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/SJBIGOb.png" tvg-id="", Jaya Plus (ஜெயா பிளஸ்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676672/ei/YO3oYebGIImThgbQmZGoDQ/ip/20.124.209.68/id/Ayr5qVvjTQ0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANnyN7E6b91yOD4T_s_COuBlKKzqEiTVpSZr6cnW9YVeAiEA-f8arMtavpwDDqD_wv3DeToUBDnzPlMRMhrDC9fmT4A%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News (கலைஞர் செய்திகள்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676672/ei/YO3oYai5M6iOhwaI-q7gCg/ip/20.124.209.68/id/G81WXBgrOnU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGIhMNI9QtomHp-7jbRhoFAVD_nJCwSsCe7kff-auYHYCIQDAD4XWZCbgSPlgVjqMHEmddyjEJ2LetDsBOU0wJEEoOg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/glL5zYr.png" tvg-id="", Captain News (கேப்டன் நியூஸ்)
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa (சாணக்யா)
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/Xz1otie.jpg" tvg-id="", ABP Nadu
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/IEUedLU.jpg" tvg-id="", Tv9 Tamil
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/wSHr8Fd.jpg" tvg-id="", VNews27
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/iMVZbcX.png" tvg-id="", News7Tamil Bakthi (நியூஸ் 7 தமிழ் பக்தி)
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/1TvFl8x.jpg" tvg-id="", Britain Tamil Bhakthi (பிரிட்டன் தமிழ் பக்தி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642676682/ei/au3oYfSWCtaChwaPySw/ip/20.124.209.68/id/UGI_gs3nnDs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgX4wDY9v0wt-EQxsa8Kos5noYFrzOG5YAbs79WoSiGO8CIQC8TXsyc4xhOMYo7L5k_zqMNhY9l3O77T29NE8hqmaiJQ%3D%3D/file/index.m3u8
+
